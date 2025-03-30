@@ -24,7 +24,7 @@ PearlTweaks provides a configuration file (`config.yml`) that allows server owne
 - Setting cooldown times for Ender Pearl throws.
 
 ## Commands
-- `/pearltweaks` (Aliases: `/pt`) - Reloads the plugin configuration.
+- `/pearltweaks reload` (Aliases: `/pt reload`) - Reloads the plugin configuration.
 
 ## Permissions
 - `pearltweaks.command` - Allows use of the PearlTweaks command (default: OP).
