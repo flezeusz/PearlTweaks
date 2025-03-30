@@ -1,0 +1,25 @@
+# Whether to disable Ender Pearl usage entirely
+disablePearl: false
+
+# Whether Ender Pearls can be thrown beyond world borders
+throwBeyondBorder: false
+
+# Multiplier for Ender Pearl throw velocity
+velocityMultiplier: 1.0
+
+# Whether to disable damage from Ender Pearl usage
+disableDamage: false
+
+# Custom damage settings
+customDamage:
+  # Whether to use custom damage
+  enable: false
+  # Amount of damage to deal when teleporting (if enabled)
+  amount: 1.0
+
+# Custom cooldown settings
+customCooldown:
+  # Whether to use custom cooldown
+  enable: false
+  # Cooldown time in ticks (if enabled)
+  time: 10

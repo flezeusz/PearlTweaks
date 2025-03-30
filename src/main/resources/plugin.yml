@@ -1,0 +1,23 @@
+main: pl.flezy.pearltweaks.PearlTweaks
+name: PearlTweaks
+version: 1.0.0
+api-version: 1.17
+description: Tweaks for ender pearls.
+author: Flezy
+website: flezy.pl
+commands:
+  pearltweaks:
+    description: Command to reload plugin configuration.
+    aliases: pt
+    permission: pearltweaks.command
+    permission-message: §cYou don't have permission to use this command.
+permissions:
+  pearltweaks.command:
+    description: Permission to use PearlTweaks command.
+    default: op
+  pearltweaks.bypasscooldown:
+    description: Permission to bypass ender pearls cooldown.
+    default: false
+  pearltweaks.disabledamage:
+    description: Permission to prevent taking damage from ender pearls.
+    default: false
