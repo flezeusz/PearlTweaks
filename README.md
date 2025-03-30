@@ -1,6 +1,6 @@
 # PearlTweaks
 
-PearlTweaks is a Minecraft plugin designed to enhance the mechanics of Ender Pearls. This plugin provides various customization options, allowing server administrators to tweak how Ender Pearls behave, including disabling pearl damage, modifying throw velocity, and setting custom cooldowns.
+PearlTweaks is a Minecraft plugin for Spigot 1.17.1+ designed to enhance the mechanics of Ender Pearls. This plugin provides various customization options, allowing server administrators to tweak how Ender Pearls behave, including disabling pearl damage, modifying throw velocity, and setting custom cooldowns.
 
 ## Features
 - Disable Ender Pearl usage entirely.
